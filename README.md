@@ -4,6 +4,12 @@
 
 Uhooi's characters.
 
+## How to use
+
+Add it as custom emojis to Slack, you'll be happy!!
+
+![Slack](./docs/screenshots/slack.png)
+
 ## License
 
 © 2022 THE Uhooi
