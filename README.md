@@ -6,7 +6,7 @@ Uhooi's characters.
 
 ## How to use
 
-Add it as custom emojis to Slack, you'll be happy!!
+Add it as custom emojis to Slack, you'll be happy <img src="./icons/uhooi/uhooi.png" width="24">
 
 ![Slack](./docs/screenshots/slack.png)
 
