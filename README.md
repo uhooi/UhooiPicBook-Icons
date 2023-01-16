@@ -55,4 +55,4 @@ Add it as custom emojis to Slack, you'll be happy <img src="./icons/uhooi/uhooi.
 
 ## License
 
-© 2022 THE Uhooi
+© 2023 THE Uhooi
