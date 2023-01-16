@@ -51,6 +51,7 @@ Add it as custom emojis to Slack, you'll be happy <img src="./icons/uhooi/uhooi.
 |monyolanpaselan|<img src="./icons/monyolanpaselan/monyolanpaselan.png" width="64">|<img src="./icons/monyolanpaselan/monyolanpaselan-dancing.gif" width="64">|
 |burunga|<img src="./icons/burunga/burunga.png" width="64">|<img src="./icons/burunga/burunga-dancing.gif" width="64">|
 |konaman|<img src="./icons/konaman/konaman.png" width="64">|<img src="./icons/konaman/konaman-dancing.gif" width="64">|
+|miyakuma|<img src="./icons/miyakuma/miyakuma.png" width="64">|<img src="./icons/miyakuma/miyakuma-dancing.gif" width="64">|
 
 ## License
 
